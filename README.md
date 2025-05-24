@@ -3,7 +3,7 @@
 Este projeto foi criado com intuito de fazer uma base de livros, para ser consultadas posteriormente,
 adicionando livros do meu interesse e que serão lidos em algum momento, e posteriormente consultados.
 
-## Tecnologias prinvcipais utilizadas nesse projeto
+## Tecnologias principais utilizadas nesse projeto
 
 - Git
 - Node.JS
